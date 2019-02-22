@@ -4,8 +4,8 @@
 export LANG=C
 
 # BootStrap JDK安装路径
-export ALT_BOOTDIR=/usr/lib/java/jdk1.6.0_45
-
+export ALT_BOOTDIR=/usr/lib/java/jdk1.7.0_80
+#export ALT_BOOTDIR=/usr/lib/java/jdk1.6.0_45
 # 允许自动下载依赖
 export ALLOW_DOWNLOADS=true
 
