@@ -158,7 +158,7 @@ class Dependencies: public ResourceObj {
     LG2_TYPE_LIMIT = 4,  // assert(TYPE_LIMIT <= (1<<LG2_TYPE_LIMIT))
 
     // handy categorizations of dependency types:
-    all_types      = ((1<<TYPE_LIMIT)-1) & ((-1)<<FIRST_TYPE),
+    all_types      = ((1<<TYPE_LIMIT)-1) & ((~0u)<<FIRST_TYPE),
     non_ctxk_types = (1<<evol_method),
     ctxk_types     = all_types & ~non_ctxk_types,
 
