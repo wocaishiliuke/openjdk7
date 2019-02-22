@@ -1,0 +1,6 @@
+../../../src/share/classes/sun/tools/native2ascii/A2NFilter.java
+../../../src/share/classes/sun/tools/native2ascii/Main.java
+../../../src/share/classes/sun/tools/native2ascii/N2AFilter.java
+../../../src/share/classes/sun/tools/native2ascii/resources/MsgNative2ascii.java
+../../../src/share/classes/sun/tools/native2ascii/resources/MsgNative2ascii_ja.java
+../../../src/share/classes/sun/tools/native2ascii/resources/MsgNative2ascii_zh_CN.java

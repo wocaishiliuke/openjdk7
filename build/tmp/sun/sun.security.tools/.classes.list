@@ -1,0 +1,8 @@
+../../../../src/share/classes/sun/security/tools/JarSignerResources.java
+../../../../src/share/classes/sun/security/tools/JarSignerResources_ja.java
+../../../../src/share/classes/sun/security/tools/JarSignerResources_zh_CN.java
+../../../../src/share/classes/sun/security/tools/KeyTool.java
+../../../../src/share/classes/sun/security/tools/JarSigner.java
+../../../../src/share/classes/sun/security/tools/KeyStoreUtil.java
+../../../../src/share/classes/sun/security/tools/TimestampedSigner.java
+../../../../src/share/classes/sun/security/tools/policytool/PolicyTool.java

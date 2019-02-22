@@ -1,0 +1,11 @@
+../../../../src/share/classes/com/sun/rowset/FilteredRowSetImpl.java
+../../../../src/share/classes/com/sun/rowset/JdbcRowSetImpl.java
+../../../../src/share/classes/com/sun/rowset/JoinRowSetImpl.java
+../../../../src/share/classes/com/sun/rowset/RowSetFactoryImpl.java
+../../../../src/share/classes/com/sun/rowset/WebRowSetImpl.java
+../../../../src/share/classes/com/sun/rowset/internal/WebRowSetXmlReader.java
+../../../../src/share/classes/com/sun/rowset/internal/WebRowSetXmlWriter.java
+../../../../src/share/classes/com/sun/rowset/internal/XmlErrorHandler.java
+../../../../src/share/classes/com/sun/rowset/internal/XmlReaderContentHandler.java
+../../../../src/share/classes/com/sun/rowset/internal/XmlResolver.java
+../../../../src/share/classes/com/sun/rowset/providers/RIXMLProvider.java

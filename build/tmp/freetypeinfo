@@ -1,0 +1,6 @@
+make[3]: Entering directory '/home/top/workspace/openjdk7/jdk/make/tools/freetypecheck'
+/home/top/workspace/openjdk7/build/btbins/freetype_versioncheck
+Required version of freetype: 2.3.0
+Detected freetype headers: 2.8.1
+Detected freetype library: 2.8.1
+make[3]: Leaving directory '/home/top/workspace/openjdk7/jdk/make/tools/freetypecheck'

@@ -1,0 +1,161 @@
+------- Ant diagnostics report -------
+Apache Ant(TM) version 1.9.13 compiled on July 10 2018
+
+-------------------------------------------
+ Implementation Version
+-------------------------------------------
+core tasks     : 1.9.13 in file:/opt/apache-ant-1.9.13/lib/ant.jar
+
+-------------------------------------------
+ ANT PROPERTIES
+-------------------------------------------
+ant.version: Apache Ant(TM) version 1.9.13 compiled on July 10 2018
+ant.java.version: 1.7
+Is this the Apache Harmony VM? no
+Is this the Kaffe VM? no
+Is this gij/gcj? no
+ant.core.lib: /opt/apache-ant-1.9.13/lib/ant.jar
+ant.home: /opt/apache-ant-1.9.13
+
+-------------------------------------------
+ ANT_HOME/lib jar listing
+-------------------------------------------
+ant.home: /opt/apache-ant-1.9.13
+ant-apache-resolver.jar (9689 bytes)
+ant-jdepend.jar (13889 bytes)
+ant-jmf.jar (12429 bytes)
+ant-swing.jar (13329 bytes)
+ant-javamail.jar (14046 bytes)
+ant-junit4.jar (13157 bytes)
+ant.jar (2067867 bytes)
+ant-junit.jar (121557 bytes)
+ant-commons-net.jar (92386 bytes)
+ant-testutil.jar (27496 bytes)
+ant-jai.jar (28448 bytes)
+ant-apache-xalan2.jar (8143 bytes)
+ant-netrexx.jar (16416 bytes)
+ant-apache-oro.jar (9767 bytes)
+ant-apache-bcel.jar (15045 bytes)
+ant-apache-log4j.jar (8461 bytes)
+ant-commons-logging.jar (9777 bytes)
+ant-antlr.jar (11668 bytes)
+ant-launcher.jar (18417 bytes)
+ant-apache-bsf.jar (9795 bytes)
+ant-jsch.jar (50539 bytes)
+ant-apache-regexp.jar (9614 bytes)
+
+-------------------------------------------
+ USER_HOME/.ant/lib jar listing
+-------------------------------------------
+user.home: /home/top
+No such directory.
+
+-------------------------------------------
+ Tasks availability
+-------------------------------------------
+image : Missing dependency javax.media.jai.PlanarImage
+sshexec : Missing dependency com.jcraft.jsch.Logger
+scp : Missing dependency com.jcraft.jsch.Logger
+sshsession : Missing dependency com.jcraft.jsch.Logger
+jdepend : Missing dependency jdepend.xmlui.JDepend
+A task being missing/unavailable should only matter if you are trying to use it
+
+-------------------------------------------
+ org.apache.env.Which diagnostics
+-------------------------------------------
+Not available.
+Download it at http://xml.apache.org/commons/
+
+-------------------------------------------
+ XML Parser information
+-------------------------------------------
+XML Parser : com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl
+XML Parser Location: unknown
+Namespace-aware parser : com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser
+Namespace-aware parser Location: unknown
+
+-------------------------------------------
+ XSLT Processor information
+-------------------------------------------
+XSLT Processor : com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl
+XSLT Processor Location: unknown
+
+-------------------------------------------
+ System properties
+-------------------------------------------
+java.runtime.name : Java(TM) SE Runtime Environment
+sun.boot.library.path : /usr/lib/java/jdk1.7.0_80/jre/lib/amd64
+java.vm.version : 24.80-b11
+ant.library.dir : /opt/apache-ant-1.9.13/lib
+java.vm.vendor : Oracle Corporation
+java.vendor.url : http://java.oracle.com/
+path.separator : :
+java.vm.name : Java HotSpot(TM) 64-Bit Server VM
+file.encoding.pkg : sun.io
+user.country : US
+sun.java.launcher : SUN_STANDARD
+sun.os.patch.level : unknown
+java.vm.specification.name : Java Virtual Machine Specification
+user.dir : /home/top/workspace/openjdk7/langtools/make
+java.runtime.version : 1.7.0_80-b15
+java.awt.graphicsenv : sun.awt.X11GraphicsEnvironment
+java.endorsed.dirs : /usr/lib/java/jdk1.7.0_80/jre/lib/endorsed
+os.arch : amd64
+java.io.tmpdir : /home/top/workspace/openjdk7/build/langtools/build/ant-tmp
+line.separator : 
+
+java.vm.specification.vendor : Oracle Corporation
+os.name : Linux
+ant.home : /opt/apache-ant-1.9.13
+sun.jnu.encoding : ANSI_X3.4-1968
+java.library.path : /usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib
+java.specification.name : Java Platform API Specification
+java.class.version : 51.0
+sun.management.compiler : HotSpot 64-Bit Tiered Compilers
+os.version : 4.15.0-45-generic
+user.home : /home/top
+user.timezone : Asia/Shanghai
+java.awt.printerjob : sun.print.PSPrinterJob
+file.encoding : ANSI_X3.4-1968
+java.specification.version : 1.7
+user.name : top
+java.class.path : /opt/apache-ant-1.9.13/lib/ant-launcher.jar:/opt/apache-ant-1.9.13/lib/ant-apache-resolver.jar:/opt/apache-ant-1.9.13/lib/ant-jdepend.jar:/opt/apache-ant-1.9.13/lib/ant-jmf.jar:/opt/apache-ant-1.9.13/lib/ant-swing.jar:/opt/apache-ant-1.9.13/lib/ant-javamail.jar:/opt/apache-ant-1.9.13/lib/ant-junit4.jar:/opt/apache-ant-1.9.13/lib/ant.jar:/opt/apache-ant-1.9.13/lib/ant-junit.jar:/opt/apache-ant-1.9.13/lib/ant-commons-net.jar:/opt/apache-ant-1.9.13/lib/ant-testutil.jar:/opt/apache-ant-1.9.13/lib/ant-jai.jar:/opt/apache-ant-1.9.13/lib/ant-apache-xalan2.jar:/opt/apache-ant-1.9.13/lib/ant-netrexx.jar:/opt/apache-ant-1.9.13/lib/ant-apache-oro.jar:/opt/apache-ant-1.9.13/lib/ant-apache-bcel.jar:/opt/apache-ant-1.9.13/lib/ant-apache-log4j.jar:/opt/apache-ant-1.9.13/lib/ant-commons-logging.jar:/opt/apache-ant-1.9.13/lib/ant-antlr.jar:/opt/apache-ant-1.9.13/lib/ant-launcher.jar:/opt/apache-ant-1.9.13/lib/ant-apache-bsf.jar:/opt/apache-ant-1.9.13/lib/ant-jsch.jar:/opt/apache-ant-1.9.13/lib/ant-apache-regexp.jar:/usr/lib/java/jdk1.7.0_80/lib/tools.jar
+java.vm.specification.version : 1.7
+sun.arch.data.model : 64
+java.home : /usr/lib/java/jdk1.7.0_80/jre
+sun.java.command : org.apache.tools.ant.launch.Launcher -cp  -diagnostics
+java.specification.vendor : Oracle Corporation
+user.language : en
+awt.toolkit : sun.awt.X11.XToolkit
+java.vm.info : mixed mode
+java.version : 1.7.0_80
+java.ext.dirs : /usr/lib/java/jdk1.7.0_80/jre/lib/ext:/usr/java/packages/lib/ext
+sun.boot.class.path : /usr/lib/java/jdk1.7.0_80/jre/lib/resources.jar:/usr/lib/java/jdk1.7.0_80/jre/lib/rt.jar:/usr/lib/java/jdk1.7.0_80/jre/lib/sunrsasign.jar:/usr/lib/java/jdk1.7.0_80/jre/lib/jsse.jar:/usr/lib/java/jdk1.7.0_80/jre/lib/jce.jar:/usr/lib/java/jdk1.7.0_80/jre/lib/charsets.jar:/usr/lib/java/jdk1.7.0_80/jre/lib/jfr.jar:/usr/lib/java/jdk1.7.0_80/jre/classes
+java.vendor : Oracle Corporation
+file.separator : /
+java.vendor.url.bug : http://bugreport.sun.com/bugreport/
+sun.cpu.endian : little
+sun.io.unicode.encoding : UnicodeLittle
+sun.desktop : gnome
+sun.cpu.isalist : 
+
+-------------------------------------------
+ Temp dir
+-------------------------------------------
+Temp dir is /home/top/workspace/openjdk7/build/langtools/build/ant-tmp
+Temp dir is writeable
+Temp dir alignment with system clock is -307 ms
+
+-------------------------------------------
+ Locale information
+-------------------------------------------
+Timezone China Standard Time offset=28800000
+
+-------------------------------------------
+ Proxy information
+-------------------------------------------
+Java1.5+ proxy settings:
+Direct connection
+
+
+Apache Ant(TM) version 1.9.13 compiled on July 10 2018

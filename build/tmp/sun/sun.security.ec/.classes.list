@@ -1,0 +1,5 @@
+../../../../src/share/classes/sun/security/ec/ECDHKeyAgreement.java
+../../../../src/share/classes/sun/security/ec/SunECEntries.java
+../../../../src/share/classes/sun/security/ec/ECKeyPairGenerator.java
+../../../../src/share/classes/sun/security/ec/SunEC.java
+../../../../src/share/classes/sun/security/ec/ECDSASignature.java

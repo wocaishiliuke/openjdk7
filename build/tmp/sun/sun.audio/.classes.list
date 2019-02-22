@@ -1,0 +1,12 @@
+../../../src/share/classes/sun/audio/AudioSecurityExceptionAction.java
+../../../src/share/classes/sun/audio/NativeAudioStream.java
+../../../src/share/classes/sun/audio/ContinuousAudioDataStream.java
+../../../src/share/classes/sun/audio/AudioStream.java
+../../../src/share/classes/sun/audio/AudioTranslatorStream.java
+../../../src/share/classes/sun/audio/AudioSecurityAction.java
+../../../src/share/classes/sun/audio/AudioDevice.java
+../../../src/share/classes/sun/audio/InvalidAudioFormatException.java
+../../../src/share/classes/sun/audio/AudioStreamSequence.java
+../../../src/share/classes/sun/audio/AudioPlayer.java
+../../../src/share/classes/sun/audio/AudioDataStream.java
+../../../src/share/classes/sun/audio/AudioData.java

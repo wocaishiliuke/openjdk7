@@ -1,0 +1,9 @@
+../../../../src/share/classes/com/sun/rmi/rmid/ExecOptionPermission.java
+../../../../src/share/classes/com/sun/rmi/rmid/ExecPermission.java
+../../../../src/share/classes/sun/rmi/log/LogHandler.java
+../../../../src/share/classes/sun/rmi/log/LogInputStream.java
+../../../../src/share/classes/sun/rmi/log/LogOutputStream.java
+../../../../src/share/classes/sun/rmi/log/ReliableLog.java
+../../../../src/share/classes/sun/rmi/server/Activation.java
+../../../../src/share/classes/sun/rmi/server/ActivationGroupInit.java
+../../../../src/share/classes/sun/rmi/transport/proxy/CGIHandler.java

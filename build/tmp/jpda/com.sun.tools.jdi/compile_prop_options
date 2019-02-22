@@ -1,0 +1,3 @@
+-compile ../../../src/share/classes/com/sun/tools/jdi/resources/jdi.properties /home/top/workspace/openjdk7/build/gensrc/com/sun/tools/jdi/resources/jdi.java ListResourceBundle
+-compile ../../../src/share/classes/com/sun/tools/jdi/resources/jdi_ja.properties /home/top/workspace/openjdk7/build/gensrc/com/sun/tools/jdi/resources/jdi_ja.java ListResourceBundle
+-compile ../../../src/share/classes/com/sun/tools/jdi/resources/jdi_zh_CN.properties /home/top/workspace/openjdk7/build/gensrc/com/sun/tools/jdi/resources/jdi_zh_CN.java ListResourceBundle

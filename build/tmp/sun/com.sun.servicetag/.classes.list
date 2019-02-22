@@ -1,0 +1,14 @@
+../../../../src/share/classes/com/sun/servicetag/UnauthorizedAccessException.java
+../../../../src/share/classes/com/sun/servicetag/SolarisServiceTag.java
+../../../../src/share/classes/com/sun/servicetag/SolarisSystemEnvironment.java
+../../../../src/share/classes/com/sun/servicetag/Util.java
+../../../../src/share/classes/com/sun/servicetag/BrowserSupport.java
+../../../../src/share/classes/com/sun/servicetag/ServiceTag.java
+../../../../src/share/classes/com/sun/servicetag/LinuxSystemEnvironment.java
+../../../../src/share/classes/com/sun/servicetag/Registry.java
+../../../../src/share/classes/com/sun/servicetag/WindowsSystemEnvironment.java
+../../../../src/share/classes/com/sun/servicetag/Installer.java
+../../../../src/share/classes/com/sun/servicetag/RegistrationData.java
+../../../../src/share/classes/com/sun/servicetag/SunConnection.java
+../../../../src/share/classes/com/sun/servicetag/RegistrationDocument.java
+../../../../src/share/classes/com/sun/servicetag/SystemEnvironment.java

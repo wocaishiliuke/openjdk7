@@ -1,0 +1,4 @@
+../../../src/share/classes/sun/beans/editors/ColorEditor.java
+../../../src/share/classes/sun/beans/editors/FontEditor.java
+../../../src/share/classes/sun/beans/editors/StringEditor.java
+../../../src/share/classes/sun/beans/infos/ComponentBeanInfo.java
