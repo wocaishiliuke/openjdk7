@@ -45,6 +45,15 @@
 # include "thread_windows.inline.hpp"
 #endif
 
+#ifdef __LEAF
+#undef __LEAF
+
+#define __LEAF(result_type, header)                                  \
+  TRACE_CALL(result_type, header)                                    \
+  debug_only(NoHandleMark __hm;)                                     \
+  /* begin of body */
+#endif
+
 // Wrapper for all entry points to the virtual machine.
 // The HandleMarkCleaner is a faster version of HandleMark.
 // It relies on the fact that there is a HandleMark further
