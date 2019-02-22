@@ -19,7 +19,7 @@
 
 #### 1.Bootstrap JDK
 
-使用jdk1.7.0_80
+使用Oracle jdk1.7.0_80
 
 #### 2.编译前安装
 
